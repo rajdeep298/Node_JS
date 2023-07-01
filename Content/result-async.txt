@@ -1,0 +1,1 @@
+Here is the result:Hi! This is first file.Hi! This is second file.
